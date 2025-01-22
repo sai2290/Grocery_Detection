@@ -1,4 +1,3 @@
-Dataset Link: https://www.kaggle.com/datasets/shazadudwadia/supermarket
 
 Output: 
 
