@@ -1,3 +1,8 @@
+Grocery Product Detection and Classification
+
+Objective: Train a model to detect and classify various grocery products from images, which could be used for smart checkout systems or inventory management in retail.
+
+
 
 Output: 
 
